@@ -31,9 +31,9 @@
  * # imports 
  *
  * ------------------------------------------------------------------- */
-@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/css/font-awesome/css/font-awesome.min.css");
-@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/css/micons/micons.css");
-@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/css/fonts.css");
+@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/css/font-awesome/css/font-awesome.min.css");
+@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/css/micons/micons.css");
+@import url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/css/fonts.css");
 
 
 /* ===================================================================
@@ -3795,12 +3795,12 @@ html.no-csstransitions .home-content__main {
 
 .clients-testimonials .testimonials .slick-prev {
     left: -130px;
-    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/left-arrow.png");
+    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/left-arrow.png");
 }
 
 .clients-testimonials .testimonials .slick-next {
     right: -130px;
-    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/right-arrow.png");
+    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/right-arrow.png");
 }
 
 .clients-testimonials .testimonials .slick-dots {
@@ -3881,7 +3881,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: #151515;
-    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/contact-bg.jpg");
+    background-image: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/contact-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 15rem;
@@ -4331,7 +4331,7 @@ footer .row {
     border: none;
     width: 85px;
     height: 28px;
-    background: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/logo-footer.png") no-repeat center;
+    background: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/logo-footer.png") no-repeat center;
     background-size: 85px 28px;
     font: 0/0 a;
     text-shadow: none;
@@ -4354,7 +4354,7 @@ footer .row {
     width: 100%;
     height: 5.4rem;
     padding: 1.2rem 160px 1.2rem 60px;
-    background: url(https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/email-icon.png) 20px center no-repeat, rgba(0, 0, 0, 0.1);
+    background: url(https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/email-icon.png) 20px center no-repeat, rgba(0, 0, 0, 0.1);
     background-size: 24px 16px, auto;
     border: none;
     margin-bottom: 1.8rem;
@@ -4560,28 +4560,28 @@ footer .row {
 ================================================================================ */
 @font-face {
     font-family: "lora-regular";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-regular-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-regular-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-regular-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-regular-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "lora-italic";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-italic-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-italic-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-italic-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-italic-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "lora-bold";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-bold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-bold-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-bold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-bold-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "lora-bold-italic";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-bolditalic-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/lora/lora-bolditalic-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-bolditalic-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/lora/lora-bolditalic-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
@@ -4592,63 +4592,63 @@ footer .row {
 ================================================================================ */
 @font-face {
     font-family: "montserrat-black";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-black-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-black-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-black-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-black-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-extrabold";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-extrabold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-extrabold-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-extrabold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-extrabold-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-bold";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-bold-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-bold-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-semibold";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-semibold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-semibold-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-semibold-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-semibold-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-medium";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-medium-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-medium-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-medium-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-medium-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-regular";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-regular-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-regular-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-light";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-light-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-light-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-light-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-light-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-extralight";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-extralight-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-extralight-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-extralight-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-extralight-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "montserrat-thin";
-    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-thin-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/fonts/montserrat/montserrat-thin-webfont.woff") format("woff");
+    src: url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-thin-webfont.woff2") format("woff2"), url("https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/fonts/montserrat/montserrat-thin-webfont.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
@@ -6033,7 +6033,7 @@ over element that should close gallery
 }
 
 .pswp__button, .pswp__button--arrow--left:before, .pswp__button--arrow--right:before {
-    background: url(https://cdn.rawgit.com/ronvenna/efc_hack_landing/8f66a74a/images/photoswipe/default-skin.png) 0 0 no-repeat;
+    background: url(https://cdn.rawgit.com/ronvenna/efc_hack_landing/master/images/photoswipe/default-skin.png) 0 0 no-repeat;
     background-size: 264px 88px;
     width: 44px;
     height: 44px;
